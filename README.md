@@ -27,10 +27,10 @@ Proposed additional dataset : The Democracy Index, by the Economist Intelligence
 
 We will divide our work into several steps :
 
-    Step 0 : Obtaining additional data 
+Step 0 : Obtaining additional data 
 Precisely define which versions can be unambiguously associated with a country, and retrieve the values of the 2019 Democracy Index for these countries.
 
-    Step 1 : Lockdown compliance and its link with the level of democracy
+Step 1 : Lockdown compliance and its link with the level of democracy
 -In each country, identify a baseline level of mobility, using data from the months prior to lockdown. 
 -Compare the level of mobility during lockdown to the baseline.
 Note: We will use the containment dates contained in the interventions.csv file.
