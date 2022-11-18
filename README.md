@@ -23,9 +23,9 @@ Proposed additional dataset : The Democracy Index, by the Economist Intelligence
     
     For the countries considered in our study (without considering the widespread languages), the indices range from 6.41 to 9.87, on a scale of 0-10.
 
-Methods :
+**Methods :**
 
-    We will divide our work into several steps :
+We will divide our work into several steps :
 
     Step 0 : Obtaining additional data 
 Precisely define which versions can be unambiguously associated with a country, and retrieve the values of the 2019 Democracy Index for these countries.
