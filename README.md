@@ -1,8 +1,8 @@
-# TITLE
+# Trendy topics during lockdown: Netflix and chill or dream of escape ?
 
 ## Data story
 
-Please, visit our website using the following [link](https://jeanmichel3000.github.io/ada-template-website/project):
+Please, visit our website using the following [link](https://jeanmichel3000.github.io/ada-template-website/project).
 
 ## Abstract
 
